@@ -10,13 +10,17 @@ Welcome to the **Shoe Store** SwiftUI project! This project is a demonstration o
 - **Brands View**: Explore various shoe brands.
 - **Firebase Integration**: Data and images are stored and retrieved using Firebase.
 
+## Demo
+
+<img src="https://github.com/user-attachments/assets/eeb46b5a-3bc1-4d78-adb7-351fa4836114" width="300" height="650" />
+
 ## Screenshots
 
-![splash](https://github.com/user-attachments/assets/eb810423-86d7-4f15-8aa1-36390a2a0b33 widt="300" height="300")
-![players](https://github.com/user-attachments/assets/a244414e-78b1-41df-8e9b-fc385edfac61)
-![products](https://github.com/user-attachments/assets/fa304ebc-c9e0-4bb2-9a55-d120133af4f7)
-![brands](https://github.com/user-attachments/assets/4f38adf8-5d9b-4bc5-9497-895ca09ba2fc)
-![product detail](https://github.com/user-attachments/assets/94e24b0f-0bd7-45b5-98d4-4ef718d94a0e)
+<img src="https://github.com/user-attachments/assets/eb810423-86d7-4f15-8aa1-36390a2a0b33" width="300" height="650" />
+<img src="https://github.com/user-attachments/assets/a244414e-78b1-41df-8e9b-fc385edfac61" width="300" height="650" />
+<img src="https://github.com/user-attachments/assets/fa304ebc-c9e0-4bb2-9a55-d120133af4f7" width="300" height="650" />
+<img src="https://github.com/user-attachments/assets/4f38adf8-5d9b-4bc5-9497-895ca09ba2fc" width="300" height="650" />
+<img src="https://github.com/user-attachments/assets/94e24b0f-0bd7-45b5-98d4-4ef718d94a0e" width="300" height="650" />
 
 ## Requirements
 

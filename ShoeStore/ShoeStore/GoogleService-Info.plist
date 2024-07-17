@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAKeQKXwxbz8849gOFLFqmnlYPB5IVFbyQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>876560539522</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.huzaifa.shoestore</string>
+	<key>PROJECT_ID</key>
+	<string>shoe-store-7bf79</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoe-store-7bf79.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<false/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:876560539522:ios:5a132e1e92285e83cf399b</string>
+</dict>
+</plist>

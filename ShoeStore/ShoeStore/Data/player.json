@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "image" : "player1"
+  },
+  {
+    "id" : 2,
+    "image" : "player2"
+  },
+  {
+    "id" : 3,
+    "image" : "player3"
+  },
+  {
+    "id" : 4,
+    "image" : "player4"
+  },
+  {
+    "id" : 5,
+    "image" : "player5"
+  }
+]
